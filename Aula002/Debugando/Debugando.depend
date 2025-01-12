@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1736612395 source:c:\users\gabryel\documents\cursosdeprogramação\cursodec\logicacomc\aula002\debugando\main.c
+	<stdio.h>
+	<stdlib.h>
+
